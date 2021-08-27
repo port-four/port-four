@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on any fun projects.
 - 📫 How to reach me
   -   LinkedIn: www.linkedin.com/in/bport4
-  -   email: b.porter4@yahoo.com
 
 <!---
 port-four/port-four is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
