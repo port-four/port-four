@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @port-four. Real name, Brett Porter.
-- 👀 I’m interested in ML/DL, digital forensics, and digital preservation.
+- 👀 I’m interested in ML/DL, ui/ux, and pirvacy & security.
 - 🌱 I’m currently learning neural networks and digital forensics.
 - 💞️ I’m looking to collaborate on any fun projects.
 - 📫 How to reach me
