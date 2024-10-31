@@ -20,6 +20,7 @@
 ## <p align="center">Education</p>
 
 ### Degrees
+-**Doctor of Philosophy in Information Science** (2024 - in progress) - University of North Texas, Denton, Texas
 - **Master of Science in Information Science** (2019) - University of North Texas, Denton, Texas
 - **Bachelor of Science in Psychology** (2018) – Texas A&M University-Central Texas, Killeen, Texas
 
