@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @port-four. Real name, Brett Porter.
 - 👀 I’m interested in ML/DL, ui/ux, and privacy & biomedical informatics.
-- 🌱 I’m currently a doctoral student in Information Science with a concentration in Data Science at the University of North Texas.
+- 🌱 I’m currently a doctoral student at the University of North Texasin Information Science with a concentration in Data Science.
 - 💞️ I’m looking to collaborate on any fun projects.
 - 📫 How to reach me
   -   LinkedIn: www.linkedin.com/in/bport4
