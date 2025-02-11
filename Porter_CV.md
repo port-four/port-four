@@ -30,23 +30,23 @@
 ## <p align="center">Scholarship</p>
 
 ### Publications
-- **Journal Article** – Lund, B., Orhan, Z., Mannuru, N. R., Bevara, R. V. K., Porter, B., Vinaih, M. K., & Bhaskara, P. (2025). Standards, frameworks, and legislation for artificial intelligence (AI) transparency. *AI and Ethics*. https://doi.org/10.1007/s43681-025-00661-4
-- **Book Chapter** – Porter, R., & Porter, B. (2023). Ethics from Antiquity to the Present: Scholastic Ethics to Applied Ethics. In *Higher Education: Five Domains to Improve Education* (pp. 145-158). Cambridge Scholars Publishing.
+- **Journal Article** – Lund, B., Orhan, Z., Mannuru, N. R., Bevara, R. V. K., **Porter, B.**, Vinaih, M. K., & Bhaskara, P. (2025). Standards, frameworks, and legislation for artificial intelligence (AI) transparency. *AI and Ethics*. https://doi.org/10.1007/s43681-025-00661-4
+- **Book Chapter** – Porter, R., & **Porter, B.** (2023). Ethics from Antiquity to the Present: Scholastic Ethics to Applied Ethics. In *Higher Education: Five Domains to Improve Education* (pp. 145-158). Cambridge Scholars Publishing.
 
 ### Presentations
 
 #### International
-- Porter, R., & Porter, B. “Proactive Ethics for AI-ML,” *3rd International Conference on Artificial Intelligence and Robotics*. Lagos, Niger, December 2023. (PowerPoint Support)
+- Porter, R., & **Porter, B.** “Proactive Ethics for AI-ML,” *3rd International Conference on Artificial Intelligence and Robotics*. Lagos, Niger, December 2023. (PowerPoint Support)
 
 #### Regional
-- Seeger, C., Connor, L., Porter, B., & Strickland, S. “All of Us Research Program: Benefits of the Data for Historically Underrepresented Researchers and Historically Underrepresented in Biomedical Research,” *Scholarly Innovation Summit*. Sam Houston State University, September 2023.
+- Seeger, C., Connor, L., **Porter, B.**, & Strickland, S. “All of Us Research Program: Benefits of the Data for Historically Underrepresented Researchers and Historically Underrepresented in Biomedical Research,” *Scholarly Innovation Summit*. Sam Houston State University, September 2023.
 
 ### Posters
-- Seeger, C., Connor, L., Porter, B., & Strickland, S. “Centering the library as the Data Research Hub: All of Us Data Training and Engagement for Academic Libraries,” *2023 Medical Library Association-South Central Chapter Conference*. New Orleans, Louisiana, August 2023.
+- Seeger, C., Connor, L., **Porter, B.**, & Strickland, S. “Centering the library as the Data Research Hub: All of Us Data Training and Engagement for Academic Libraries,” *2023 Medical Library Association-South Central Chapter Conference*. New Orleans, Louisiana, August 2023.
 
 ### Workshops Taught
-- Seeger, C., Connor, L., Porter, B., & Strickland, S. “All of Us Data Treasure Hunt,” Sam Houston State University College of Medicine. Huntsville, Texas, September 2023.
-- Seeger, C., Connor, L., Porter, B., & Strickland, S. “Treasures of the All of Us Research Data,” *Medical Library Association- South Central Chapter Conference*. New Orleans, Louisiana, August 2023.
+- Seeger, C., Connor, L., **Porter, B.**, & Strickland, S. “All of Us Data Treasure Hunt,” Sam Houston State University College of Medicine. Huntsville, Texas, September 2023.
+- Seeger, C., Connor, L., **Porter, B.**, & Strickland, S. “Treasures of the All of Us Research Data,” *Medical Library Association- South Central Chapter Conference*. New Orleans, Louisiana, August 2023.
 
 ## <p align="center">Coding Projects</p>
 - **Research Co-author Search:** Python script searches PubMed for co-authored articles and fetches those citations via the Entrez Programming Utilities (E-Utilities) API provided by National Library of Medicine. (Primary coder) https://github.com/NNLM-NCDS/research-team-co-authorship
